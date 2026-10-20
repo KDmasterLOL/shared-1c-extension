@@ -1,0 +1,6 @@
+{
+  "hsnips.hsnipsPath": "~/.config/Code/User/hsnips",
+  "files.associations": {
+    "*.bsl": "bsl"
+  }
+}
